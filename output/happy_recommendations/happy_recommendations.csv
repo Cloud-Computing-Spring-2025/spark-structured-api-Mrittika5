@@ -1,0 +1,7 @@
+song_id,title,artist,genre,mood,user_id
+song_5,Song Title 5,Artist 5,Jazz,Happy,user_1
+song_13,Song Title 13,Artist 3,Rock,Happy,user_1
+song_40,Song Title 40,Artist 0,Jazz,Happy,user_1
+song_5,Song Title 5,Artist 5,Jazz,Happy,user_2
+song_13,Song Title 13,Artist 3,Rock,Happy,user_2
+song_40,Song Title 40,Artist 0,Jazz,Happy,user_2
